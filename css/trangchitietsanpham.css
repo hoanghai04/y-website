@@ -1,0 +1,24 @@
+.chitiet-parent{
+    display: flex;
+}
+
+.chitiet-child-left,.chitiet-child-right{
+    width: 50%;
+}
+
+ul.list-square li{
+    width: 12%;
+    margin-right: .5rem;
+    border: 1px solid #0752ad;
+    padding: .5rem .2rem .5rem .2rem;
+}
+.border{
+    border: 1px solid rgb(223, 223, 223) !important;
+}
+
+ul.list-square li div{
+    width: 100%;
+}
+.fs-12{
+    font-size: 12px;
+}

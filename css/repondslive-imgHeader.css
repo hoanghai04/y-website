@@ -1,0 +1,17 @@
+@media screen and (min-width: 1536px) {
+    
+    .header-top img{
+        
+       
+       height: 9%;
+    }
+}
+
+@media screen and (max-width: 1536px){
+    .header-top img {
+        width: 1536px;
+        /* height: 50px;
+        object-fit: cover;
+        object-position: center; */
+    }
+}

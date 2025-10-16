@@ -1,0 +1,12 @@
+.register{
+    background-color: #fff;
+    padding-left: 17%;
+    padding-right: 17%;
+}
+
+.register h2{
+    font-size: 16px;
+    color: rgb(0, 82, 170);
+    font-weight: 700;
+    padding: 1rem 1rem 1rem 0;
+}
